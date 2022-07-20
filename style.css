@@ -101,7 +101,7 @@ table{
 
    
 }
-tr:hover {background-color: coral;}
+tr:hover {background-color: rgb(255, 80, 127);}
 
 th {
     height: 70px;
